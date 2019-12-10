@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.tnaot.news",
+    "sha256_cert_fingerprints":
+    ["09:BA:6F:4A:65:21:A6:17:DC:29:1A:B4:23:D4:9B:8F:2B:F6:59:C7:54:8F:E5:1E:1A:D7:DC:AC:40:34:D3:EB"]
+  }
+}]
